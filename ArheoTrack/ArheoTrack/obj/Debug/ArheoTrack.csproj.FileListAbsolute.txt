@@ -1,0 +1,16 @@
+C:\Users\DARIAELENARADUT\Desktop\ArheoTrack\ArheoTrack\ArheoTrack\bin\Debug\ArheoTrack.exe.config
+C:\Users\DARIAELENARADUT\Desktop\ArheoTrack\ArheoTrack\ArheoTrack\bin\Debug\ArheoTrack.exe
+C:\Users\DARIAELENARADUT\Desktop\ArheoTrack\ArheoTrack\ArheoTrack\bin\Debug\ArheoTrack.pdb
+C:\Users\DARIAELENARADUT\Desktop\ArheoTrack\ArheoTrack\ArheoTrack\obj\Debug\ArheoTrack.csproj.AssemblyReference.cache
+C:\Users\DARIAELENARADUT\Desktop\ArheoTrack\ArheoTrack\ArheoTrack\obj\Debug\ArheoTrack.Form1.resources
+C:\Users\DARIAELENARADUT\Desktop\ArheoTrack\ArheoTrack\ArheoTrack\obj\Debug\ArheoTrack.FormAutentificare.resources
+C:\Users\DARIAELENARADUT\Desktop\ArheoTrack\ArheoTrack\ArheoTrack\obj\Debug\ArheoTrack.Properties.Resources.resources
+C:\Users\DARIAELENARADUT\Desktop\ArheoTrack\ArheoTrack\ArheoTrack\obj\Debug\ArheoTrack.csproj.GenerateResource.cache
+C:\Users\DARIAELENARADUT\Desktop\ArheoTrack\ArheoTrack\ArheoTrack\obj\Debug\ArheoTrack.csproj.CoreCompileInputs.cache
+C:\Users\DARIAELENARADUT\Desktop\ArheoTrack\ArheoTrack\ArheoTrack\obj\Debug\ArheoTrack.exe
+C:\Users\DARIAELENARADUT\Desktop\ArheoTrack\ArheoTrack\ArheoTrack\obj\Debug\ArheoTrack.pdb
+C:\Users\DARIAELENARADUT\Desktop\ArheoTrack\ArheoTrack\ArheoTrack\obj\Debug\ArheoTrack.FormÎnregistrare.resources
+C:\Users\DARIAELENARADUT\Desktop\ArheoTrack\ArheoTrack\ArheoTrack\obj\Debug\ArheoTrack.FormAdaugaFosila.resources
+C:\Users\DARIAELENARADUT\Desktop\ArheoTrack\ArheoTrack\ArheoTrack\obj\Debug\ArheoTrack.FormDetaliiFosila.resources
+C:\Users\DARIAELENARADUT\Desktop\ArheoTrack\ArheoTrack\ArheoTrack\obj\Debug\ArheoTrack.FormMain.resources
+C:\Users\DARIAELENARADUT\Desktop\ArheoTrack\ArheoTrack\ArheoTrack\obj\Debug\ArheoTrack.FormCautareFosile.resources

@@ -1,0 +1,8 @@
+IF OBJECT_ID('dbo.Specii', 'U') IS NOT NULL DROP TABLE dbo.Specii;
+GO
+
+CREATE TABLE dbo.Specii (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Nume NVARCHAR(100) NOT NULL,
+    Descriere NVARCHAR(MAX) NULL
+);

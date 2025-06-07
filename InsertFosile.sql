@@ -1,0 +1,11 @@
+INSERT INTO Fosile (Nume, Locatie, Latitudine, Longitudine, DataDescoperire, Descriere, ImagineURL, SpecieId, CreatDe) VALUES
+('Fosila TRX1', 'Montana, SUA', 45.1234, -110.5678, '2020-06-15', 'Schelet aproape complet.', 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxsJDtdUaBE-u_q9HB699LZRAkvV19rQf_0K5DDelgKPquaT8fifexyLZNHHSaXxmU_JwAoJh9WpMVg-2bwCbZow', 1, 1),
+('Fosila TRI1', 'Colorado, SUA', 39.7392, -104.9903, '2019-08-10', 'Cranium intact.', 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxHqpkGKKQtSVMk17HuMHiHNMkM770AYowSd3NpoGajk_Kv8UZ7bvDhrriZYPqZigcPCzuJCRkS2VKnLhIzV_gkA', 2, 2),
+('Fosila STE1', 'Utah, SUA', 38.5733, -109.5498, '2018-05-20', 'Coada bine conservat?.', 'https://cdn.britannica.com/59/242659-050-75430D8A/Outdoor-statue-of-Stegosaurus-dinosaur.jpg', 3, 1),
+('Fosila VEL1', 'Mongolia', 46.8625, 103.8467, '2021-09-05', 'Gheare mari ?i ascu?ite.', 'https://i.natgeofe.com/n/5c3c8fb7-b1e4-495b-a943-9f812fbb320f/velociraptor-mongoliensis_2490029.jpg', 4, 3),
+('Fosila BRA1', 'Africa', -1.2921, 36.8219, '2017-04-22', 'Oase gât lung.', 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdvijwSJXGvxS65qoLaN3aiT-QUaHgoBG3xTjE1R7LzaK6CHYl6Z9ZE7eFKV08ClSI-cU5PFDZuPSjAj6w2CERwg', 5, 2),
+('Fosila ALL1', 'Wyoming, SUA', 43.0759, -107.2903, '2022-01-11', 'Mandibul? masiv?.', 'https://www.nps.gov/dino/learn/nature/images/allosaurus-fragilis_2.jpg', 6, 1),
+('Fosila PTE1', 'Texas, SUA', 31.9686, -99.9018, '2023-03-08', 'Aripi fosilizate.', 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmO_emRsR3sTLiI23XagypZO3NDhIYIbZDyujbNEtYhycptwU51axFNvuEnQ-yBFKLTovmr4xIlnt4THjkWvgbCg', 7, 2),
+('Fosila SPI1', 'Egipt', 26.8206, 30.8025, '2020-11-30', 'Spinare unic?.', 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8SwoGC3p5_fv0v8-wIM-z09DzH37Yu0NMbOOnwIoMQ1QpRAWI0WPVvDoKT1cDFIKqFCzgXdECePmtc576KtcbwQ', 8, 3),
+('Fosila ANK1', 'China', 35.8617, 104.1954, '2022-06-12', 'Blindaj complet.', 'https://www.hoo-zoo.com/wp-content/uploads/2022/10/Ankylosaurus-magniventris-1600x909-1-1200x682.jpeg', 9, 2),
+('Fosila IGU1', 'Anglia', 51.5074, -0.1278, '2019-02-25', 'Maxilar mare.', 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBjBKhv6HhejqG8UEoIKd1SPU6pV_UH-ggFeOSNJ-4qJlfxT2NRS_blL_JeVA27LP5LaWP5S2Q_vphuC5itE7mHw', 10, 1);
